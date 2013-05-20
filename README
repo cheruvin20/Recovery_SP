@@ -1,4 +1,4 @@
-this repo will contain the modified CWM Recovery for Xperia SP.
+this repo will contain the modified CWM Recovery(Chinese) for Xperia SP.
 
 credits:
 
@@ -9,3 +9,12 @@ Suky for chinese fonts
 TODO list/help needed:
 
 Fix the internal storage mount in recovery
+
+此repo包含修改版的Xperia SP可用的中文recovery。
+目前尚处于半成品状态，需修复内置存储挂载。
+
+鸣谢：
+
+Kouch recovery开源
+DoomLoRD init.d脚本支持
+Suky 中文字体
