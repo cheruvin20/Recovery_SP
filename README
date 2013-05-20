@@ -1,0 +1,11 @@
+this repo will contain the modified CWM Recovery for Xperia SP.
+
+credits:
+
+Koush for recovery source
+DoomLoRD for init.d scripts support
+Suky for chinese fonts
+
+TODO list/help needed:
+
+Fix the internal storage mount in recovery
